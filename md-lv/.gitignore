@@ -1,0 +1,9 @@
+/target
+/simulations
+/sup_movies
+/sup_src
+/notebooks/sup_images
+.ipynb_checkpoints
+*.xyz
+*.h5
+equil*.json
