@@ -7,3 +7,4 @@
 *.xyz
 *.h5
 equil*.json
+.env
