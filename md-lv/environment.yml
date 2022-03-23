@@ -1,0 +1,11 @@
+prefix: ./.venv
+name: md-lv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  # - pip:
+    # - dotenv
